@@ -2,9 +2,9 @@
 
 ## Autores
 
-- **Eduardo Dias Peixoto**
-- **Pedro Oliveira Coelho**  
-- **Luiany Gonsalves Carvalho**  
+- **Eduardo Dias Peixoto - 22010395**
+- **Pedro Oliveira Coelho - 202108786**  
+- **Luiany Gonsalves Carvalho - 202303351**  
 
 ## Resumo
 
