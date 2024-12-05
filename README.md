@@ -133,13 +133,16 @@ O treinamento do YOLOv8 para detecção de buracos mostrou-se promissor, apresen
 [5] "YOLOv8 for Custom Object Detection," _Blog_, 2024. 
 
 # Apêndices
-![Exemplo de Inferência 1](outputs/Pasted image.png)
-![Exemplo de Inferência 2](outputs/Pasted image(2).png)
-![Exemplo de Inferência 3](outputs/Pasted image(3).png)
 
 ## A. Código Fonte
 
 O código fonte para este projeto está disponível em github.com/diaspeixoto/PDSI-E9
 
 ## B. Resultados
+
+<img src="outputs/Pasted image.png" alt="Exemplo de Inferência 1" width="640" />
+<img src="outputs/Pasted image (2).png" alt="Exemplo de Inferência 2" width="640" />
+<img src="outputs/Pasted image (3).png" alt="Exemplo de Inferência 3" width="640" />
+
+
 
