@@ -3,4 +3,13 @@ mss
 Pillow
 opencv-python-headless
 numpy
+<<<<<<< main
 ultralytics
+=======
+ultralytics
+torch
+torchvision
+kaggle
+scikit-learn
+matplotlib
+>>>>>>> local
