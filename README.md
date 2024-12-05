@@ -133,6 +133,9 @@ O treinamento do YOLOv8 para detecção de buracos mostrou-se promissor, apresen
 [5] "YOLOv8 for Custom Object Detection," _Blog_, 2024. 
 
 # Apêndices
+![Exemplo de Inferência 1](outputs/Pasted image.png)
+![Exemplo de Inferência 2](outputs/Pasted image(2).png)
+![Exemplo de Inferência 3](outputs/Pasted image(3).png)
 
 ## A. Código Fonte
 
