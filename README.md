@@ -1,10 +1,9 @@
 # Detecção de Deformidades na Pavimentação Urbana Utilizando Modelos de Aprendizado Profundo
 
-## Autores
+## Autor
 
-- **Eduardo Dias Peixoto - 22010395**
-- **Pedro Oliveira Coelho - 202108786**  
-- **Luiany Gonsalves Carvalho - 202303351**  
+- **Eduardo Dias Peixoto**
+
 Link para a apresentação (entrar com email institucional): drive.google.com/file/d/1u42cGuYu9c8dCNGwHnjRFWNnRXbD8ypU/view?usp=sharing
 
 ## Resumo
